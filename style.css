@@ -83,7 +83,7 @@ strong{
   float: right;
   margin-top: 10px;
   font-size: 0.8em;
-  position: relative;
+  display: inline-block;
 
 }
 #VideoExplanation{
