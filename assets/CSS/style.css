@@ -50,6 +50,9 @@ float: right;
   display: inline-block;
   margin-left: 5%;
 }
+iframe{
+  border: none;
+}
 #thumbnail img {
   width: 150px;
   height: 100px;
@@ -77,14 +80,13 @@ strong{
   font-size: 13px;
 }
 #thumbnail {
-  width:350px;
+  width:330px;
   padding: 10px;
   height: 1000px;
   float: right;
   margin-top: 10px;
   font-size: 0.8em;
   display: inline-block;
-
 }
 #VideoExplanation{
   width: 800px;
@@ -92,7 +94,6 @@ strong{
 }
 .videoex{
   margin-left: 8%;
-
 }
 #subscribe{
   border: 2px solid red;
@@ -202,7 +203,6 @@ h4 {
   border-bottom: 1px solid gray;
   background-color: transparent;
 }
-
 .user {
   height:45px;
   width:45px;
@@ -230,7 +230,4 @@ h4 {
 }
 .comment {
   width: 700px;
-}
-problem {
-margin-top:20px;
 }
