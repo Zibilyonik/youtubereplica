@@ -49,6 +49,7 @@ float: right;
   width: 720px;
   display: inline-block;
   margin-left: 5%;
+  position: relative;
 }
 iframe{
   border: none;
@@ -81,12 +82,13 @@ strong{
 }
 #thumbnail {
   width:330px;
-  padding: 10px;
   height: 1000px;
   float: right;
-  margin-top: 10px;
+  margin-top: 20px;
+  margin-left: 60px;
   font-size: 0.8em;
   display: inline-block;
+  position: absolute;
 }
 #VideoExplanation{
   width: 800px;
